@@ -16,6 +16,8 @@ CD \Program Files\Microsoft Office\Office16 OR CD \Program Files (x86)\Microsoft
 cscript ospp.vbs /sethst:YOUR_IP_OR_HOSTNAME
 cscript ospp.vbs /inpkey:xxxxx-xxxxx-xxxxx-xxxxx-xxxxx
 cscript ospp.vbs /act
+cscript ospp.vbs /dstatusall
+```
 
 
 ## Список KMS серверов для активации
@@ -252,5 +254,4 @@ cscript ospp.vbs /act
 - Windows Server 2008 for Itanium-Based Systems:```4DWFP-JF3DJ-B7DTH-78FJB-PDRHK```
 
 
-cscript ospp.vbs /dstatusall
-```
+
