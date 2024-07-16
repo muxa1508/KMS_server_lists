@@ -58,7 +58,8 @@ cscript ospp.vbs /act
 # GVLK Keys form Microsoft Official Website
 > 
 - [Windows](#windows)
-	- [Windows 10](#win10)
+	- [Windows 10 LTSC](#win10 LTSC)
+	- [Windows 10/11](#win10/11)
 	- [Windows 8.1](#win81)
 	- [Windows 8](#win8)
 	- [Windows 7](#win7)
@@ -69,6 +70,7 @@ cscript ospp.vbs /act
 	- [Office 2013](#2013)
 	- [Office 2010](#2010)
 - [Server](#server)
+	- [Windows Server 2022](#srv2022)
 	- [Windows Server 2019](#srv2019)
 	- [Windows Server 2016](#srv2016)
 	- [Windows Server 2012R2](#srv2012r2)
@@ -84,17 +86,25 @@ cscript ospp.vbs /act
 - https://technet.microsoft.com/en-us/library/ee624355(office.14).aspx
 
 ## Windows
-### Windows 10  [↑TOP](#top)
-- Windows 10 Professional:```W269N-WFGWX-YVC9B-4J6C9-T83GX```
-- Windows 10 Professional N:```MH37W-N47XK-V7XM9-C7227-GCQG9```
-- Windows 10 Enterprise:```NPPR9-FWDCX-D2C8J-H872K-2YT43```
-- Windows 10 Enterprise N:```DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4```
-- Windows 10 Education:```NW6C2-QMPVW-D7KKK-3GKT6-VCFB2```
-- Windows 10 Education N:```2WH4N-8QGBV-H22JP-CT43Q-MDWWJ```
-- Windows 10 Enterprise 2015 LTSB:```WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
-- Windows 10 Enterprise 2015 LTSB N:```2F77B-TNFGY-69QQF-B8YKP-D69TJ```
-- Windows 10 Enterprise 2016 LTSB:```DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ```
-- Windows 10 Enterprise 2016 LTSB N:```QFFDN-GRT3P-VKWWX-X7T3R-8B639```
+### Windows 10 LTSC  [↑TOP](#top)
+- Windows 10 Enterprise LTSC 2021/2019:```M7XTQ-FN8P6-TTKYV-9D4CC-J462D```
+- Windows 10 Enterprise N LTSC 2021/2019:```92NFX-8DJQP-P6BBQ-THF9C-7CG2H```
+- Windows 10 Enterprise LTSB 2016:```DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ```
+- Windows 10 Enterprise N LTSB 2016:```QFFDN-GRT3P-VKWWX-X7T3R-8B639```
+- Windows 10 Enterprise LTSB 2015:```WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
+- Windows 10 Enterprise N LTSB 2015:```2F77B-TNFGY-69QQF-B8YKP-D69TJ```
+
+### Windows 10/11  [↑TOP](#top)
+- Windows 10/11 Professional:```W269N-WFGWX-YVC9B-4J6C9-T83GX```
+- Windows 10/11 Professional N:```MH37W-N47XK-V7XM9-C7227-GCQG9```
+- Windows 10/11 Enterprise:```NPPR9-FWDCX-D2C8J-H872K-2YT43```
+- Windows 10/11 Enterprise N:```DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4```
+- Windows 10/11 Education:```NW6C2-QMPVW-D7KKK-3GKT6-VCFB2```
+- Windows 10/11 Education N:```2WH4N-8QGBV-H22JP-CT43Q-MDWWJ```
+- Windows 10/11 Enterprise 2015 LTSB:```WNMTR-4C88C-JK8YV-HQ7T2-76DF9```
+- Windows 10/11 Enterprise 2015 LTSB N:```2F77B-TNFGY-69QQF-B8YKP-D69TJ```
+- Windows 10/11 Enterprise 2016 LTSB:```DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ```
+- Windows 10/11 Enterprise 2016 LTSB N:```QFFDN-GRT3P-VKWWX-X7T3R-8B639```
 
 ### Windows 8.1  [↑TOP](#top)
 - Windows 8.1 Professional:```GCRJD-8NW9H-F2CDX-CCM8D-9D6T9```
@@ -191,6 +201,12 @@ cscript ospp.vbs /act
 - Visio Standard 2010:```767HD-QGMWX-8QTDB-9G3R2-KHFGJ```
 
 ## Server
+
+### Windows Server 2022  [↑TOP](#top)
+- Windows Server 2022 Datacenter:```WX4NM-KYWYW-QJJR4-XV3QB-6VM33```
+- Windows Server 2022 Standard:```VDYBN-27WPP-V4HQT-9VMD4-VMK7H```
+- Windows Server 2022 Datacenter: Azure Edition:```NTBV8-9K7Q8-V27C6-M2BTV-KHMXV```
+
 ### Windows Server 2019  [↑TOP](#top)
 - Windows Server 2019 Datacenter:```WMDGN-G9PQG-XVVXX-R3X43-63DFG```
 - Windows Server 2019 Standard:```N69G4-B89J2-4G8F4-WWYCC-J464C```
